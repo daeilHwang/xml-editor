@@ -24,4 +24,4 @@ Xml Eidtor가 목적은 아니었고, 이 프로그램에다가 추가적으로 
 vueJS를 사용했으며 유료강좌 수강기념(?)으로 가벼운 마음으로 개발시작한 Toy Project 입니다.
 
 Scom Simulator에 대한 정보는 아래 링크 참고해주세요 :D
-###### [Scom_Simualtor](https://github.com/di-hwang/scom-simulator)
+###### What is [Scom_Simualtor](https://github.com/di-hwang/scom-simulator) ??
