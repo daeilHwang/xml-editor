@@ -21,16 +21,4 @@
 
 # ✋ Review  
 Xml Eidtor가 목적은 아니었고, 이 프로그램에다가 추가적으로 살을 붙여서 Scom Simulator를 만들었음.  
-Scom Simulator에는 회사 제품인 ScomDriver가 첨부되어 있기 때문에 public git에는 등록하지 않습니다.  
-아래는 Scom Simulator의 이미지입니다.  
-![image](https://user-images.githubusercontent.com/78777059/161459759-db08cfcb-05c6-4e2b-9b5f-83ead1999532.png)
-
-![image](https://user-images.githubusercontent.com/78777059/161459778-a34c4a4b-b2c9-4945-8695-6e689ceb8b6f.png)
-
-![image](https://user-images.githubusercontent.com/78777059/161459790-4ad298dc-1ab6-484f-b139-6eb3f13c8221.png)
-
-![image](https://user-images.githubusercontent.com/78777059/161459798-46f073b5-84a6-4525-b5f4-4735c5dd45c2.png)
-
-![image](https://user-images.githubusercontent.com/78777059/161459807-32fa6a16-48b6-4095-8ecd-0765b60483fe.png)
-
-![image](https://user-images.githubusercontent.com/78777059/161459816-018c124f-ce09-4f59-9b22-0c3980d21f1e.png)
+###### [Scom_Simualtor](https://github.com/di-hwang/scom-simulator)
